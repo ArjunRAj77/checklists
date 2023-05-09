@@ -1,28 +1,55 @@
-# DevOps CICD Checklist
-As a DevOps engineer, having a checklist can help you to stay organized, save time and improve the efficiency of your work.
-Here's a checklist for creating CICD pipelines in Azure:
+# DevOps Checklist
 
+This checklist is designed to help you ensure that your DevOps process is comprehensive and effective. Use it as a starting point and customize it as needed for your specific project and tech stack.
 
-1. Identify the project requirements: Understand the project requirements and the type of application that needs to be deployed.
+## Project Requirements
 
-2. Choose the right deployment strategy: Choose the appropriate deployment strategy based on the requirements, such as Continuous Deployment, Blue/Green Deployment, Canary Deployment, etc.
+- [ ] Have you identified the project requirements and the type of application that needs to be deployed?
 
-3. Create an Azure Resource Group: Create an Azure Resource Group for the project to manage all the resources used in the deployment.
+## Deployment Strategy
 
-4. Define the infrastructure as code: Define the infrastructure as code using ARM Templates, Azure CLI, or Terraform.
+- [ ] Have you chosen the appropriate deployment strategy based on the requirements, such as Continuous Deployment, Blue/Green Deployment, Canary Deployment, etc.?
 
-5. Select the build tool: Choose the right build tool for the project, such as Azure DevOps, Jenkins, or GitHub Actions.
+## Azure Resource Group
 
-6. Configure the build pipeline: Configure the build pipeline to build the application and create the necessary artifacts.
+- [ ] Have you created an Azure Resource Group for the project to manage all the resources used in the deployment?
 
-7. Select the release tool: Choose the appropriate release tool, such as Azure DevOps, Jenkins, or GitHub Actions.
+## Infrastructure as Code
 
-8. Configure the release pipeline: Configure the release pipeline to deploy the application to the target environment.
+- [ ] Have you defined the infrastructure as code using ARM Templates, Azure CLI, or Terraform?
 
-9. Define the test strategy: Define the test strategy for the application and include it in the pipeline.
+## Build Tool
 
-10. Configure monitoring and logging: Configure monitoring and logging to track the health of the application and detect issues.
+- [ ] Have you chosen the right build tool for the project, such as Azure DevOps, Jenkins, or GitHub Actions?
 
-11. Ensure security and compliance: Ensure the pipeline and the deployed application comply with security and compliance standards.
+## Build Pipeline
 
-12. Perform regular maintenance: Perform regular maintenance of the pipeline and the deployed application to ensure it is up-to-date and secure.
+- [ ] Have you configured the build pipeline to build the application and create the necessary artifacts?
+
+## Release Tool
+
+- [ ] Have you chosen the appropriate release tool, such as Azure DevOps, Jenkins, or GitHub Actions?
+
+## Release Pipeline
+
+- [ ] Have you configured the release pipeline to deploy the application to the target environment?
+
+## Test Strategy
+
+- [ ] Have you defined the test strategy for the application and included it in the pipeline?
+
+## Monitoring and Logging
+
+- [ ] Have you configured monitoring and logging to track the health of the application and detect issues?
+
+## Security and Compliance
+
+- [ ] Have you ensured that the pipeline and the deployed application comply with security and compliance standards?
+
+## Regular Maintenance
+
+- [ ] Are you performing regular maintenance of the pipeline and the deployed application to ensure it is up-to-date and secure?
+
+## Conclusion
+
+This checklist is just a starting point for ensuring a comprehensive DevOps process for your Azure project. Customize it as needed for your specific requirements, and regularly review and update it to ensure that you are always improving your process.
