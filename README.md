@@ -1,4 +1,7 @@
 # Tech Stack Project Checklist
+> Current Status : In Progress
+
+
 This repository contains a checklist for developers to use when starting a new project in various tech stacks. The checklist is designed to help ensure that all necessary tasks are completed and all important considerations are taken into account before beginning development.
 
 The repository includes a separate checklist for each tech stack, including Node.js, React, Vue.js, Angular, Python, Java, and more. Each checklist is designed to be easily customizable to fit the specific needs of your project and tech stack.
